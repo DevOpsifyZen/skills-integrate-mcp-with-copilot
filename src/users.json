@@ -1,0 +1,17 @@
+[
+  {
+    "email": "parent1@mergington.edu",
+    "password": "parent123",
+    "role": "parent"
+  },
+  {
+    "email": "provider1@mergington.edu",
+    "password": "provider123",
+    "role": "provider"
+  },
+  {
+    "email": "admin1@mergington.edu",
+    "password": "admin123",
+    "role": "admin"
+  }
+]
